@@ -1,6 +1,6 @@
 # Baton_Rouge-Crime-analysis-
 
-In-depth analysis of Baton Rouge Police Crime Incidents data, addressing several key questions about crime patterns. Here's a summary of what the code does and shows:
+In-depth analysis of Baton Rouge Police Crime Incidents data, addressing several key questions about crime patterns.
 
 Data Loading and Initial Exploration: The notebook first loads the crime incident data into a pandas DataFrame and performs some basic data cleaning, such as converting date columns.
 
